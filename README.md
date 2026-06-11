@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello! Welcome to my GitHub
+
+ My name is Georgy Bodrov but I also go by Egor.  
+I am a College student currently studying Computer Networks and System administration and aspire to be DevOps & Infrastructure engineer.  
+![demo](penguin.gif)
+I'm currently making it my goal to become an expert in all things Unix, my laptop is currently running a custom Arch Linux setup and i have a Raspberry pi using DietPi, a lightweight Debian distro for my custom DNS needs. 
+
 
 <!--
 **eb2033/eb2033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
