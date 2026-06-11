@@ -30,7 +30,11 @@ I am a College student currently studying Computer Networks and System administr
 - Learning Docker Compose , Kubernetes and Teraform to finish college with a strong Final Year Project
 
 ## My Socials
-
-- LinkedIn : https://www.linkedin.com/in/georgy-bodrov-994a40249/
-- Instagram : https://www.instagram.com/eb_two3/
-
+<div align="left" >
+  <a href="https://www.linkedin.com/in/georgy-bodrov-994a40249" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+  <a href="https://www.instagram.com/eb_two3/" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
+  </a>
+</div>
