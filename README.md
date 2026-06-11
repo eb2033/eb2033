@@ -1,22 +1,35 @@
 ## Hello! Welcome to my GitHub
 
  My name is Georgy Bodrov but I also go by Egor.  
+   
 I am a College student currently studying Computer Networks and System administration and aspire to be DevOps & Infrastructure engineer.  
-![demo](penguin.gif)
-I'm currently making it my goal to become an expert in all things Unix, my laptop is currently running a custom Arch Linux setup and i have a Raspberry pi using DietPi, a lightweight Debian distro for my custom DNS needs. 
+![me](tux-linux-penguin.gif)  
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-<!--
-**eb2033/eb2033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Love tinkering with Linux systems (Debian,Ubuntu,Arch)
+- Exploring how to best orchestrate systems and containers within AWS cloud environments
+- Capable of programming automation scripts with Python and Backend logic with PHP
+- Working towards being able to design and deploy reliable and scalable distributed systems.
+- Love to collect and paint miniatures :P
+- Based in Ireland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working on
+
+- Obtaining the AWS Solutions architect assosciate certification
+- Learning Docker Compose , Kubernetes and Teraform to finish college with a strong Final Year Project
+
+## My Socials
+
+- LinkedIn : https://www.linkedin.com/in/georgy-bodrov-994a40249/
+- Instagram : https://www.instagram.com/eb_two3/
+
