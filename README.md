@@ -1,6 +1,7 @@
 ## Hello! Welcome to my GitHub
 
  My name is Georgy Bodrov but I also go by Egor.  
+ My Online handle is Eoniser and many variations of such :P  
    
 I am a College student currently studying Computer Networks and System administration and aspire to be DevOps & Infrastructure engineer.  
 ![me](tux-linux-penguin.gif)  
