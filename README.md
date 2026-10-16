@@ -3,7 +3,7 @@
  My name is Georgy Bodrov but I also go by Egor.  
  My Online handle is Eoniser and many variations of such :P  
    
-I am a College student currently studying Computer Networks and System administration and aspire to be DevOps & Infrastructure engineer.  
+I am a College student currently studying Computer Networks and System administration and aspire to be DevSecOps & Cloud infrastructure engineer.  
 ![me](tux-linux-penguin.gif)  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -19,7 +19,7 @@ I am a College student currently studying Computer Networks and System administr
 
 - Love tinkering with Linux systems (Debian,Ubuntu,Arch)
 - Exploring how to best orchestrate systems and containers within AWS cloud environments
-- Capable of programming automation scripts with Python and Backend logic with PHP
+- Capable of programming automation scripts with Python and Back-end logic with PHP
 - Working towards being able to design and deploy reliable and scalable distributed systems.
 - Exploring using AI for a variety of different things (Check out PyRogue)
 - Love to collect and paint miniatures :P
@@ -27,8 +27,8 @@ I am a College student currently studying Computer Networks and System administr
 
 ## Currently Working on
 
-- Obtaining the AWS Solutions architect assosciate certification
-- Learning Docker Compose , Kubernetes and Teraform to finish college with a strong Final Year Project
+- Obtaining the AWS Solutions architect associate certification
+- Learning Docker Compose , Kubernetes and Terraform for my Final Year Project
 
 ## My Socials
 <div align="left" >
