@@ -21,6 +21,7 @@ I am a College student currently studying Computer Networks and System administr
 - Exploring how to best orchestrate systems and containers within AWS cloud environments
 - Capable of programming automation scripts with Python and Backend logic with PHP
 - Working towards being able to design and deploy reliable and scalable distributed systems.
+- Exploring using AI for a variety of different things (Check out PyRogue)
 - Love to collect and paint miniatures :P
 - Based in Ireland
 
